@@ -1,0 +1,4 @@
+Szin$lábszám
+kék$13
+sárga$4
+zöld$5
